@@ -1,0 +1,12 @@
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\bin\Debug\net8.0\MovieApp.Domain.deps.json
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\bin\Debug\net8.0\MovieApp.Domain.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\bin\Debug\net8.0\MovieApp.Domain.pdb
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.AssemblyInfo.cs
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\obj\Debug\net8.0\refint\MovieApp.Domain.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.pdb
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Domain\obj\Debug\net8.0\ref\MovieApp.Domain.dll

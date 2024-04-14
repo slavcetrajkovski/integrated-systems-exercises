@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D916EE2-0E48-4FF8-A503-EE38FDFBE928}|MovieAppRepository\\MovieAppRepository.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\movieapp\\movieapprepository\\impl\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D916EE2-0E48-4FF8-A503-EE38FDFBE928}|MovieAppRepository\\MovieAppRepository.csproj|solutionrelative:movieapprepository\\impl\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D916EE2-0E48-4FF8-A503-EE38FDFBE928}|MovieAppRepository\\MovieAppRepository.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\movieapp\\movieapprepository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D916EE2-0E48-4FF8-A503-EE38FDFBE928}|MovieAppRepository\\MovieAppRepository.csproj|solutionrelative:movieapprepository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\movieapp\\movieapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB255D-2E0C-4F6E-AA72-1E4B88EE190F}|MovieApp.Service\\MovieApp.Service.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\movieapp\\movieapp.service\\impl\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB255D-2E0C-4F6E-AA72-1E4B88EE190F}|MovieApp.Service\\MovieApp.Service.csproj|solutionrelative:movieapp.service\\impl\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB255D-2E0C-4F6E-AA72-1E4B88EE190F}|MovieApp.Service\\MovieApp.Service.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\movieapp\\movieapp.service\\interface\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB255D-2E0C-4F6E-AA72-1E4B88EE190F}|MovieApp.Service\\MovieApp.Service.csproj|solutionrelative:movieapp.service\\interface\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 649,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\MovieAppRepository\\Impl\\Repository.cs",
+              "RelativeDocumentMoniker": "MovieAppRepository\\Impl\\Repository.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\MovieAppRepository\\Impl\\Repository.cs",
+              "RelativeToolTip": "MovieAppRepository\\Impl\\Repository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:51:19.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\MovieApp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\MovieApp\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:51:13.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\MovieApp.Service\\Impl\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieApp.Service\\Impl\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\MovieApp.Service\\Impl\\MovieService.cs",
+              "RelativeToolTip": "MovieApp.Service\\Impl\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:51:09.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\MovieApp.Service\\Interface\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieApp.Service\\Interface\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\MovieApp.Service\\Interface\\IMovieService.cs",
+              "RelativeToolTip": "MovieApp.Service\\Interface\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:51:08.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\MovieAppRepository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "MovieAppRepository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\MovieApp\\MovieAppRepository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "MovieAppRepository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:50:46.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 797,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

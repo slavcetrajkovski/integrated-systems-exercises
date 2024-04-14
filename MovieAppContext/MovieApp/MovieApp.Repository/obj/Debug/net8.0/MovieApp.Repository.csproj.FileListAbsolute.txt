@@ -1,0 +1,11 @@
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\bin\Debug\net8.0\MovieApp.Repository.deps.json
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\bin\Debug\net8.0\MovieApp.Repository.dll
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\bin\Debug\net8.0\MovieApp.Repository.pdb
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\obj\Debug\net8.0\MovieApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\obj\Debug\net8.0\MovieApp.Repository.AssemblyInfoInputs.cache
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\obj\Debug\net8.0\MovieApp.Repository.AssemblyInfo.cs
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\obj\Debug\net8.0\MovieApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\obj\Debug\net8.0\MovieApp.Repository.dll
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\obj\Debug\net8.0\refint\MovieApp.Repository.dll
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\obj\Debug\net8.0\MovieApp.Repository.pdb
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Repository\obj\Debug\net8.0\ref\MovieApp.Repository.dll

@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10ED230-E348-4500-A028-E83C2054F217}|Lab.Service\\Lab.Service.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\concerts\\lab.service\\impl\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10ED230-E348-4500-A028-E83C2054F217}|Lab.Service\\Lab.Service.csproj|solutionrelative:lab.service\\impl\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38E8A12-65E9-48EF-B27B-D16BA92C7795}|lab1\\lab1.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\concerts\\lab1\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38E8A12-65E9-48EF-B27B-D16BA92C7795}|lab1\\lab1.csproj|solutionrelative:lab1\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB974743-8751-41CE-BB36-D9EB9B3B0C0C}|Lab.Repository\\Lab.Repository.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\concerts\\lab.repository\\impl\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB974743-8751-41CE-BB36-D9EB9B3B0C0C}|Lab.Repository\\Lab.Repository.csproj|solutionrelative:lab.repository\\impl\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10ED230-E348-4500-A028-E83C2054F217}|Lab.Service\\Lab.Service.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\concerts\\lab.service\\impl\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10ED230-E348-4500-A028-E83C2054F217}|Lab.Service\\Lab.Service.csproj|solutionrelative:lab.service\\impl\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38E8A12-65E9-48EF-B27B-D16BA92C7795}|lab1\\lab1.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\concerts\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38E8A12-65E9-48EF-B27B-D16BA92C7795}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38E8A12-65E9-48EF-B27B-D16BA92C7795}|lab1\\lab1.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\concerts\\lab1\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38E8A12-65E9-48EF-B27B-D16BA92C7795}|lab1\\lab1.csproj|solutionrelative:lab1\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB974743-8751-41CE-BB36-D9EB9B3B0C0C}|Lab.Repository\\Lab.Repository.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\concerts\\lab.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB974743-8751-41CE-BB36-D9EB9B3B0C0C}|Lab.Repository\\Lab.Repository.csproj|solutionrelative:lab.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C14222-2F54-49B2-B593-D4201E039C36}|Lab.Model\\Lab.Model.csproj|c:\\users\\slavcho\\desktop\\finki\\3rdyear\\6thsemester\\is\\vezbi_prv_kolokvium\\concerts\\lab.model\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C14222-2F54-49B2-B593-D4201E039C36}|Lab.Model\\Lab.Model.csproj|solutionrelative:lab.model\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\Lab.Service\\Impl\\TicketService.cs",
+              "RelativeDocumentMoniker": "Lab.Service\\Impl\\TicketService.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\Lab.Service\\Impl\\TicketService.cs",
+              "RelativeToolTip": "Lab.Service\\Impl\\TicketService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:32:45.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\lab1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\lab1\\Program.cs",
+              "RelativeToolTip": "lab1\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:25:57.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\lab1\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "lab1\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\lab1\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "lab1\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:22:25.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\Lab.Repository\\Impl\\Repository.cs",
+              "RelativeDocumentMoniker": "Lab.Repository\\Impl\\Repository.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\Lab.Repository\\Impl\\Repository.cs",
+              "RelativeToolTip": "Lab.Repository\\Impl\\Repository.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:19:52.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\Lab.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Lab.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\Lab.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Lab.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:17:44.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\Lab.Model\\DTO\\ShoppingCartDTO.cs",
+              "RelativeDocumentMoniker": "Lab.Model\\DTO\\ShoppingCartDTO.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\Lab.Model\\DTO\\ShoppingCartDTO.cs",
+              "RelativeToolTip": "Lab.Model\\DTO\\ShoppingCartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:03:14.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\Lab.Service\\Impl\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "Lab.Service\\Impl\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\Lab.Service\\Impl\\ShoppingCartService.cs",
+              "RelativeToolTip": "Lab.Service\\Impl\\ShoppingCartService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwJ8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:59:56.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\lab1\\Controllers\\ShoppingCartsController.cs",
+              "RelativeDocumentMoniker": "lab1\\Controllers\\ShoppingCartsController.cs",
+              "ToolTip": "C:\\Users\\Slavcho\\Desktop\\FINKI\\3rdYear\\6thSemester\\IS\\vezbi_prv_kolokvium\\Concerts\\lab1\\Controllers\\ShoppingCartsController.cs",
+              "RelativeToolTip": "lab1\\Controllers\\ShoppingCartsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:54:40.601Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1246,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

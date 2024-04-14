@@ -1,0 +1,15 @@
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\bin\Debug\net8.0\MovieAppRepository.deps.json
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\bin\Debug\net8.0\MovieAppRepository.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\bin\Debug\net8.0\MovieAppRepository.pdb
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\bin\Debug\net8.0\MovieApp.Domain.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\bin\Debug\net8.0\MovieApp.Domain.pdb
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\obj\Debug\net8.0\MovieAppRepository.csproj.AssemblyReference.cache
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\obj\Debug\net8.0\MovieAppRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\obj\Debug\net8.0\MovieAppRepository.AssemblyInfoInputs.cache
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\obj\Debug\net8.0\MovieAppRepository.AssemblyInfo.cs
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\obj\Debug\net8.0\MovieAppRepository.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\obj\Debug\net8.0\MovieApp.D2375086.Up2Date
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\obj\Debug\net8.0\MovieAppRepository.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\obj\Debug\net8.0\refint\MovieAppRepository.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\obj\Debug\net8.0\MovieAppRepository.pdb
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieAppRepository\obj\Debug\net8.0\ref\MovieAppRepository.dll

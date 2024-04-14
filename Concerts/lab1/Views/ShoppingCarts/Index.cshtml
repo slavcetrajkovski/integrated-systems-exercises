@@ -1,0 +1,72 @@
+﻿@model Lab.Model.DTO.ShoppingCartDTO
+
+@{
+    ViewData["Title"] = "Shopping cart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Shopping cart</h1>
+
+<p>
+    <a asp-action="Order">Order now</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Number of people</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if(Model.inCartTickets.Count == 0)
+        {
+            <tr>
+                <td colspan="5" class="text-center">
+                    Cart is empty
+                </td>
+            </tr>
+        } else
+        {
+            @for (int i = 0; i < Model.inCartTickets.Count(); i++)
+        {
+                var item = Model.inCartTickets[i];
+
+                <tr>
+                    <td>
+                        @(i + 1)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ticket.Concert.ConcertName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NumberOfPeople)
+                    </td>
+                    <td>
+                        @(item.NumberOfPeople * item.Ticket.Concert.ConcertPrice)
+                    </td>
+                    <td>
+                        <a class="btn btn-danger" asp-action="DeleteTicket" asp-route-id="@item.TicketId">Delete</a>
+                    </td>
+                </tr>
+        }
+       }
+    </tbody>
+    <tfoot>
+        @if (Model.inCartTickets.Count != 0)
+        {
+            <tr>
+                <th>
+                    Total price:
+                </th>
+                <th></th>
+                <th></th>
+                <th>Ден:@Model.TotalPrice</th>
+                <th></th>
+            </tr>
+        }
+    </tfoot>
+</table>

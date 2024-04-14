@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MovieApp.Repository/1.0.0": {
+        "runtime": {
+          "MovieApp.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieApp.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

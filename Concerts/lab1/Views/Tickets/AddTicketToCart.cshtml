@@ -1,0 +1,37 @@
+﻿@model Lab.Model.DTO.AddTicketToCart
+
+@{
+    ViewData["Title"] = "Add to cart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Add to cart</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 m-auto">
+            <form asp-action="AddTicketToCart" method="post">
+                <input hidden asp-for="TicketId"/>
+
+                <div class="form-group">
+                    <label asp-for="SelectedConcert"></label>
+                    <input disabled asp-for="SelectedConcert" class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="SelectedConcertPrice"></label>
+                    <input disabled asp-for="SelectedConcertPrice" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="NumberOfPeople"></label>
+                    <input asp-for="NumberOfPeople" class="form-control" />
+                </div>  
+
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="Add to cart"/>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

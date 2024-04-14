@@ -1,0 +1,31 @@
+﻿@model MovieApp.Models.DTO.AddTicketToCartDTO
+
+@{
+    ViewData["Title"] = "Add to cart";
+}
+
+<h1>Add to cart</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 m-auto">
+            <form asp-action="AddTicketToCart" method="post">
+                <input hidden asp-for="TicketId"/>
+
+                <div class="form-group">
+                    <label asp-for="SelectedMovie"></label>
+                    <input disabled asp-for="SelectedMovie" class="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Quantity"></label>
+                    <input asp-for="Quantity" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="Add to cart"/>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

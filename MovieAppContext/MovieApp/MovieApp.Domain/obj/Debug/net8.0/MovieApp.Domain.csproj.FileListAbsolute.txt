@@ -1,0 +1,11 @@
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\bin\Debug\net8.0\MovieApp.Domain.deps.json
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\bin\Debug\net8.0\MovieApp.Domain.dll
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\bin\Debug\net8.0\MovieApp.Domain.pdb
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.AssemblyInfo.cs
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.dll
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\obj\Debug\net8.0\refint\MovieApp.Domain.dll
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\obj\Debug\net8.0\MovieApp.Domain.pdb
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Domain\obj\Debug\net8.0\ref\MovieApp.Domain.dll

@@ -1,0 +1,11 @@
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\bin\Debug\net8.0\MovieApp.Service.deps.json
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\bin\Debug\net8.0\MovieApp.Service.dll
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\bin\Debug\net8.0\MovieApp.Service.pdb
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.AssemblyInfoInputs.cache
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.AssemblyInfo.cs
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.dll
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\obj\Debug\net8.0\refint\MovieApp.Service.dll
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.pdb
+C:\Users\Slavcho\Downloads\MovieApp\MovieApp.Service\obj\Debug\net8.0\ref\MovieApp.Service.dll

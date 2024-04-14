@@ -1,0 +1,17 @@
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\bin\Debug\net8.0\MovieApp.Service.deps.json
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\bin\Debug\net8.0\MovieApp.Service.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\bin\Debug\net8.0\MovieApp.Service.pdb
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\bin\Debug\net8.0\MovieApp.Domain.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\bin\Debug\net8.0\MovieAppRepository.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\bin\Debug\net8.0\MovieApp.Domain.pdb
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\bin\Debug\net8.0\MovieAppRepository.pdb
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.csproj.AssemblyReference.cache
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.AssemblyInfoInputs.cache
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.AssemblyInfo.cs
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.0F654F2B.Up2Date
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\obj\Debug\net8.0\refint\MovieApp.Service.dll
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\obj\Debug\net8.0\MovieApp.Service.pdb
+C:\Users\Slavcho\Desktop\FINKI\3rdYear\6thSemester\IS\vezbi_prv_kolokvium\MovieApp\MovieApp.Service\obj\Debug\net8.0\ref\MovieApp.Service.dll
